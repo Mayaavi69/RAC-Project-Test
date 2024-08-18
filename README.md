@@ -13,3 +13,7 @@ Machine learning files
 Final_Analysis.ipynb- file 1 - Data cleaning
 Final_Anaalysis2.ipynb - file 2 - data pre processing
 Final_Analysis3 (1) (1).ipynb - file 3 - clustering and decision tree (unsupervised and supervised learning)
+
+Files for the report
+Fifa Analysis_Group 6.pdf - Presentation
+
