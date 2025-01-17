@@ -1,3 +1,5 @@
+https://1drv.ms/f/c/ae7314c92107ffac/Eqz_ByHJFHMggK5rZgAAAAAB9BnBv9eH6LmG8h-rlakV9g?e=GJSQOW
+
 FIFA 22-23 RAC Project - Group 6
 Project Overview
 This project presents a comprehensive analysis of FIFA players using supervised and unsupervised machine learning techniques. The analysis is based on a dataset of approximately 25,218 records and aims to identify player traits, successful players, and create interactive dashboards for inferring player and club characteristics.
